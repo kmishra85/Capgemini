@@ -1,0 +1,311 @@
+2017-10-31 09:59:34,488 INFO [root] - Values fetched from admin_details table
+2017-10-31 09:59:40,058 INFO [root] - Values fetched from admin_details table
+2017-10-31 10:08:14,321 ERROR [root] - Exception OccuredORA-00900: invalid SQL statement
+
+2017-10-31 10:09:03,625 ERROR [root] - Exception OccuredORA-00900: invalid SQL statement
+
+2017-10-31 11:36:22,584 INFO [root] - Values fetched from admin_details table
+2017-10-31 11:36:26,523 INFO [root] - Values fetched from admin_details table
+2017-10-31 11:36:26,663 INFO [root] - Values added in admin_details table
+2017-11-01 08:51:48,135 INFO [root] - Values fetched from admin_details table
+2017-11-01 08:51:52,329 INFO [root] - Values fetched from admin_details table
+2017-11-01 08:51:52,501 INFO [root] - Values added in admin_details table
+2017-11-01 08:53:20,261 INFO [root] - Values added in hotel_details table
+2017-11-01 08:53:41,887 INFO [root] - Executed Successfully
+2017-11-01 08:53:45,442 INFO [root] - Executed Successfully
+2017-11-01 08:53:47,407 INFO [root] - Executed Successfully
+2017-11-01 08:54:34,479 INFO [root] - Executed Successfully
+2017-11-01 08:54:34,666 INFO [root] - Executed Successfully
+2017-11-01 08:54:34,838 INFO [root] - Executed Successfully
+2017-11-01 08:57:13,662 INFO [root] - Values fetched from admin_details table
+2017-11-01 08:57:17,343 INFO [root] - Values fetched from admin_details table
+2017-11-01 08:57:17,515 INFO [root] - Values added in admin_details table
+2017-11-01 08:57:37,514 INFO [root] - Executed Successfully
+2017-11-01 08:57:42,287 INFO [root] - Executed Successfully
+2017-11-01 08:57:44,144 INFO [root] - Executed Successfully
+2017-11-01 08:58:11,461 INFO [root] - Executed Successfully
+2017-11-01 08:58:11,679 INFO [root] - Executed Successfully
+2017-11-01 08:58:11,899 INFO [root] - Executed Successfully
+2017-11-01 09:00:33,412 INFO [root] - Executed Successfully
+2017-11-01 09:00:36,861 INFO [root] - Executed Successfully
+2017-11-01 09:00:39,030 INFO [root] - Executed Successfully
+2017-11-01 09:01:17,770 INFO [root] - Executed Successfully
+2017-11-01 09:01:17,957 INFO [root] - Executed Successfully
+2017-11-01 09:01:18,146 INFO [root] - Executed Successfully
+2017-11-01 09:05:05,485 INFO [root] - Executed Successfully
+2017-11-01 09:05:08,808 INFO [root] - Executed Successfully
+2017-11-01 09:05:10,603 INFO [root] - Executed Successfully
+2017-11-01 09:06:08,253 INFO [root] - Executed Successfully
+2017-11-01 09:06:08,409 INFO [root] - Executed Successfully
+2017-11-01 09:06:08,519 INFO [root] - Executed Successfully
+2017-11-01 09:06:54,868 INFO [root] - Executed Successfully
+2017-11-01 09:06:58,114 INFO [root] - Executed Successfully
+2017-11-01 09:06:59,846 INFO [root] - Executed Successfully
+2017-11-01 09:07:30,056 INFO [root] - Executed Successfully
+2017-11-01 09:07:30,258 INFO [root] - Executed Successfully
+2017-11-01 09:07:30,447 INFO [root] - Executed Successfully
+2017-11-01 09:52:37,889 INFO [root] - Executed Successfully
+2017-11-01 09:52:42,539 INFO [root] - Executed Successfully
+2017-11-01 09:52:44,349 INFO [root] - Executed Successfully
+2017-11-01 09:55:34,399 INFO [root] - Executed Successfully
+2017-11-01 09:55:34,571 INFO [root] - Executed Successfully
+2017-11-01 09:55:34,728 INFO [root] - Executed Successfully
+2017-11-01 10:01:10,605 ERROR [root] - Exception OccuredORA-00900: invalid SQL statement
+
+2017-11-01 10:01:32,486 ERROR [root] - Exception OccuredORA-00900: invalid SQL statement
+
+2017-11-01 10:03:33,005 INFO [root] - Values fetched from hotel_details table
+2017-11-01 10:03:35,502 INFO [root] - Values fetched from hotel_details table
+2017-11-01 10:03:38,358 INFO [root] - Values fetched from hotel_details table
+2017-11-01 10:04:15,557 INFO [root] - Executed Successfully
+2017-11-01 10:04:15,635 INFO [root] - Executed Successfully
+2017-11-01 10:04:15,807 INFO [root] - Executed Successfully
+2017-11-01 10:04:15,948 INFO [root] - Values updated in room_details table
+2017-11-01 10:06:30,985 INFO [root] - Executed Successfully
+2017-11-01 10:06:34,169 INFO [root] - Executed Successfully
+2017-11-01 10:06:36,088 INFO [root] - Executed Successfully
+2017-11-01 10:07:17,983 INFO [root] - Executed Successfully
+2017-11-01 10:07:18,124 INFO [root] - Executed Successfully
+2017-11-01 10:07:18,406 INFO [root] - Executed Successfully
+2017-11-01 10:07:18,484 INFO [root] - Executed Successfully
+2017-11-01 12:31:12,277 INFO [root] - Values fetched from admin_details table
+2017-11-01 12:31:15,632 INFO [root] - Values fetched from admin_details table
+2017-11-01 12:31:15,804 INFO [root] - Values added in admin_details table
+2017-11-01 12:33:56,698 INFO [root] - Values added in hotel_details table
+2017-11-01 12:34:01,363 INFO [root] - Values fetched from hotel_details table
+2017-11-01 12:34:20,942 INFO [root] - Values fetched from hotel_details table
+2017-11-01 12:35:12,416 INFO [root] - Values updated in hotel_details table
+2017-11-01 12:42:13,531 INFO [root] - Values fetched from hotel_details table
+2017-11-01 12:42:47,306 INFO [root] - Values fetched from hotel_details table
+2017-11-01 12:42:49,475 INFO [root] - Values fetched from hotel_details table
+2017-11-01 13:28:59,197 INFO [root] - Executed Successfully
+2017-11-01 13:28:59,353 INFO [root] - Executed Successfully
+2017-11-01 13:28:59,448 INFO [root] - Executed Successfully
+2017-11-01 13:32:57,100 INFO [root] - Values inserted in room_details table
+2017-11-01 13:33:14,514 INFO [root] - Values inserted in room_details table
+2017-11-01 13:33:43,487 INFO [root] - Values inserted in room_details table
+2017-11-01 13:33:52,212 INFO [root] - Values inserted in room_details table
+2017-11-01 13:34:24,935 INFO [root] - Values fetched from admin_details table
+2017-11-01 13:34:28,337 INFO [root] - Values fetched from admin_details table
+2017-11-01 13:34:28,539 INFO [root] - Values added in admin_details table
+2017-11-01 13:35:12,303 INFO [root] - Values fetched from admin_details table
+2017-11-01 13:35:15,253 INFO [root] - Values fetched from admin_details table
+2017-11-01 13:35:15,440 INFO [root] - Values added in admin_details table
+2017-11-01 13:35:54,058 INFO [root] - Values fetched from admin_details table
+2017-11-01 13:36:07,697 INFO [root] - Values fetched from admin_details table
+2017-11-01 13:36:11,177 INFO [root] - Values fetched from admin_details table
+2017-11-01 13:36:11,333 INFO [root] - Values added in admin_details table
+2017-11-01 13:37:32,104 INFO [root] - Values fetched from hotel_details table
+2017-11-01 13:37:51,418 INFO [root] - Values fetched from hotel_details table
+2017-11-01 13:37:53,478 INFO [root] - Values fetched from hotel_details table
+2017-11-01 13:53:18,867 INFO [root] - Values inserted in room_details table
+2017-11-01 14:07:17,421 INFO [root] - Values fetched from admin_details table
+2017-11-01 14:07:20,448 INFO [root] - Values fetched from admin_details table
+2017-11-01 14:07:20,620 INFO [root] - Values added in admin_details table
+2017-11-01 14:07:29,111 INFO [root] - Values fetched from admin_details table
+2017-11-01 14:07:36,725 INFO [root] - Values fetched from admin_details table
+2017-11-01 14:07:39,222 INFO [root] - Values fetched from admin_details table
+2017-11-01 17:22:48,852 INFO [root] - Values fetched from admin_details table
+2017-11-01 17:22:52,165 INFO [root] - Values fetched from admin_details table
+2017-11-01 17:22:52,227 INFO [root] - Values added in admin_details table
+2017-11-01 17:24:04,397 INFO [root] - Values added in hotel_details table
+2017-11-01 17:24:42,843 INFO [root] - Values fetched from hotel_details table
+2017-11-01 17:24:53,220 INFO [root] - Values deleted from hotel_details table
+2017-11-01 17:25:05,549 INFO [root] - Values fetched from hotel_details table
+2017-11-01 17:25:10,472 INFO [root] - Values fetched from hotel_details table
+2017-11-01 17:25:33,838 INFO [root] - Values updated in hotel_details table
+2017-11-01 17:26:28,222 INFO [root] - Values fetched from hotel_details table
+2017-11-01 17:26:32,271 INFO [root] - Values fetched from hotel_details table
+2017-11-01 17:26:35,882 INFO [root] - Values fetched from hotel_details table
+2017-11-01 17:27:58,952 INFO [root] - Executed Successfully
+2017-11-01 17:27:59,233 INFO [root] - Executed Successfully
+2017-11-01 17:27:59,780 INFO [root] - Executed Successfully
+2017-11-01 17:28:00,123 INFO [root] - Values updated in room_details table
+2017-11-01 17:29:10,000 INFO [root] - Values inserted in room_details table
+2017-11-01 17:29:45,631 INFO [root] - Values fetched from room_details table
+2017-11-01 17:29:45,787 INFO [root] - Values deleted from room_details table
+2017-11-01 17:30:15,556 INFO [root] - Values fetched from room_details table
+2017-11-01 17:30:21,738 INFO [root] - Values fetched from room_details table
+2017-11-01 17:30:34,548 INFO [root] - Values updated in room_details table
+2017-11-01 17:31:00,832 INFO [root] - Values fetched from room_details table
+2017-11-01 17:31:05,627 INFO [root] - Values fetched from room_details table
+2017-11-01 17:31:13,284 INFO [root] - Values updated in room_details table
+2017-11-01 17:31:35,821 INFO [root] - Values fetched from room_details table
+2017-11-01 17:31:39,931 INFO [root] - Values fetched from room_details table
+2017-11-01 17:31:40,103 INFO [root] - Values updated in room_details table
+2017-11-01 17:32:22,749 INFO [root] - Executed Successfully
+2017-11-01 17:32:27,311 INFO [root] - Executed Successfully
+2017-11-01 17:32:29,986 INFO [root] - Executed Successfully
+2017-11-01 17:34:00,715 INFO [root] - Executed Successfully
+2017-11-01 17:34:00,873 INFO [root] - Executed Successfully
+2017-11-01 17:34:01,061 INFO [root] - Executed Successfully
+2017-11-01 17:34:01,233 INFO [root] - Executed Successfully
+2017-11-01 17:37:42,218 INFO [root] - Executed Successfully
+2017-11-01 17:38:41,897 INFO [root] - Values inserted in room_details table
+2017-11-01 17:38:59,777 INFO [root] - Values fetched from hotel_details table
+2017-11-01 17:39:23,451 INFO [root] - Values fetched from hotel_details table
+2017-11-01 17:39:27,233 INFO [root] - Values fetched from hotel_details table
+2017-11-01 17:40:33,350 INFO [root] - Executed Successfully
+2017-11-01 17:40:33,537 INFO [root] - Executed Successfully
+2017-11-01 17:40:33,788 INFO [root] - Executed Successfully
+2017-11-01 17:40:33,961 INFO [root] - Values updated in room_details table
+2017-11-01 17:45:01,637 INFO [root] - Values fetched from admin_details table
+2017-11-01 17:45:04,655 INFO [root] - Values fetched from admin_details table
+2017-11-01 17:45:04,858 INFO [root] - Values added in admin_details table
+2017-11-02 10:58:51,783 INFO [root] - Executed Successfully
+2017-11-02 10:58:54,701 INFO [root] - Executed Successfully
+2017-11-02 10:59:26,548 INFO [root] - Executed Successfully
+2017-11-02 11:02:23,667 INFO [root] - Executed Successfully
+2017-11-02 11:02:26,570 INFO [root] - Executed Successfully
+2017-11-02 11:02:41,844 ERROR [root] - Exception OccuredORA-00920: invalid relational operator
+
+2017-11-02 11:26:53,425 INFO [root] - Executed Successfully
+2017-11-02 11:26:56,608 INFO [root] - Executed Successfully
+2017-11-02 11:26:57,935 INFO [root] - Executed Successfully
+2017-11-02 11:27:18,844 INFO [root] - Executed Successfully
+2017-11-02 11:27:22,059 INFO [root] - Executed Successfully
+2017-11-02 11:28:40,546 ERROR [root] - Exception OccuredORA-00920: invalid relational operator
+
+2017-11-02 11:31:21,034 INFO [root] - Executed Successfully
+2017-11-02 11:31:26,261 INFO [root] - Executed Successfully
+2017-11-02 11:31:32,753 ERROR [root] - Exception OccuredORA-00920: invalid relational operator
+
+2017-11-02 11:32:10,855 INFO [root] - Executed Successfully
+2017-11-02 11:32:16,113 INFO [root] - Executed Successfully
+2017-11-02 11:32:21,419 ERROR [root] - Exception OccuredORA-00920: invalid relational operator
+
+2017-11-02 11:34:05,232 INFO [root] - Executed Successfully
+2017-11-02 11:34:08,697 INFO [root] - Executed Successfully
+2017-11-02 11:34:11,880 INFO [root] - Executed Successfully
+2017-11-02 11:34:23,103 INFO [root] - Executed Successfully
+2017-11-02 11:34:25,881 INFO [root] - Executed Successfully
+2017-11-02 11:34:30,329 INFO [root] - Executed Successfully
+2017-11-02 11:34:34,451 INFO [root] - Executed Successfully
+2017-11-02 11:34:38,227 INFO [root] - Executed Successfully
+2017-11-02 11:34:48,557 INFO [root] - Executed Successfully
+2017-11-02 11:34:53,459 INFO [root] - Executed Successfully
+2017-11-02 11:34:57,610 INFO [root] - Executed Successfully
+2017-11-02 11:35:06,676 INFO [root] - Executed Successfully
+2017-11-02 11:35:24,339 INFO [root] - Executed Successfully
+2017-11-02 11:35:26,977 INFO [root] - Executed Successfully
+2017-11-02 11:35:34,108 INFO [root] - Executed Successfully
+2017-11-02 11:35:54,127 INFO [root] - Executed Successfully
+2017-11-02 11:35:56,500 INFO [root] - Executed Successfully
+2017-11-02 11:35:57,686 INFO [root] - Executed Successfully
+2017-11-02 11:36:06,208 INFO [root] - Executed Successfully
+2017-11-02 11:36:10,873 INFO [root] - Executed Successfully
+2017-11-02 11:36:20,033 INFO [root] - Executed Successfully
+2017-11-02 11:36:54,997 INFO [root] - Executed Successfully
+2017-11-02 11:36:58,227 INFO [root] - Executed Successfully
+2017-11-02 11:37:09,540 INFO [root] - Executed Successfully
+2017-11-02 11:37:17,016 INFO [root] - Executed Successfully
+2017-11-02 11:37:19,732 INFO [root] - Executed Successfully
+2017-11-02 11:37:21,324 INFO [root] - Executed Successfully
+2017-11-02 11:37:38,114 INFO [root] - Executed Successfully
+2017-11-02 11:37:41,094 INFO [root] - Executed Successfully
+2017-11-02 11:37:47,087 INFO [root] - Executed Successfully
+2017-11-02 11:38:09,992 INFO [root] - Executed Successfully
+2017-11-02 11:38:13,659 INFO [root] - Executed Successfully
+2017-11-02 11:38:14,815 INFO [root] - Executed Successfully
+2017-11-02 11:38:21,168 INFO [root] - Executed Successfully
+2017-11-02 11:38:26,364 INFO [root] - Executed Successfully
+2017-11-02 11:38:32,855 INFO [root] - Executed Successfully
+2017-11-02 11:38:48,506 INFO [root] - Executed Successfully
+2017-11-02 11:38:51,253 INFO [root] - Executed Successfully
+2017-11-02 11:38:58,681 INFO [root] - Executed Successfully
+2017-11-02 11:39:11,742 INFO [root] - Executed Successfully
+2017-11-02 11:39:14,785 INFO [root] - Executed Successfully
+2017-11-02 11:39:17,797 INFO [root] - Executed Successfully
+2017-11-02 11:39:31,467 INFO [root] - Executed Successfully
+2017-11-02 11:39:34,447 INFO [root] - Executed Successfully
+2017-11-02 11:39:35,728 INFO [root] - Executed Successfully
+2017-11-02 11:39:47,858 INFO [root] - Executed Successfully
+2017-11-02 11:39:50,542 INFO [root] - Executed Successfully
+2017-11-02 11:39:57,939 INFO [root] - Executed Successfully
+2017-11-02 11:41:31,638 INFO [root] - Executed Successfully
+2017-11-02 11:41:34,712 INFO [root] - Executed Successfully
+2017-11-02 11:41:36,959 INFO [root] - Executed Successfully
+2017-11-02 11:41:51,426 INFO [root] - Executed Successfully
+2017-11-02 11:41:54,219 INFO [root] - Executed Successfully
+2017-11-02 11:41:57,606 INFO [root] - Executed Successfully
+2017-11-02 11:42:06,892 INFO [root] - Executed Successfully
+2017-11-02 11:42:09,967 INFO [root] - Executed Successfully
+2017-11-02 11:42:16,352 INFO [root] - Executed Successfully
+2017-11-02 11:42:20,862 INFO [root] - Executed Successfully
+2017-11-02 11:42:22,235 INFO [root] - Executed Successfully
+2017-11-02 11:42:30,195 INFO [root] - Executed Successfully
+2017-11-02 11:42:33,410 INFO [root] - Executed Successfully
+2017-11-02 11:42:37,936 INFO [root] - Executed Successfully
+2017-11-02 11:45:13,323 INFO [root] - Executed Successfully
+2017-11-02 11:45:18,550 INFO [root] - Executed Successfully
+2017-11-02 11:45:27,198 INFO [root] - Executed Successfully
+2017-11-02 11:45:29,633 INFO [root] - Executed Successfully
+2017-11-02 11:45:32,911 INFO [root] - Executed Successfully
+2017-11-02 11:46:08,624 INFO [root] - Executed Successfully
+2017-11-02 11:46:12,385 INFO [root] - Executed Successfully
+2017-11-02 11:46:13,228 INFO [root] - Executed Successfully
+2017-11-02 11:46:27,521 INFO [root] - Executed Successfully
+2017-11-02 11:46:30,096 INFO [root] - Executed Successfully
+2017-11-02 11:46:32,562 INFO [root] - Executed Successfully
+2017-11-02 11:46:41,177 INFO [root] - Executed Successfully
+2017-11-02 11:46:44,236 INFO [root] - Executed Successfully
+2017-11-02 11:46:47,045 INFO [root] - Executed Successfully
+2017-11-02 11:46:54,147 INFO [root] - Executed Successfully
+2017-11-02 11:46:56,348 INFO [root] - Executed Successfully
+2017-11-02 11:46:59,345 INFO [root] - Executed Successfully
+2017-11-02 11:51:53,934 INFO [root] - Executed Successfully
+2017-11-02 11:51:57,476 INFO [root] - Executed Successfully
+2017-11-02 11:52:11,405 INFO [root] - Executed Successfully
+2017-11-02 11:52:14,947 INFO [root] - Executed Successfully
+2017-11-02 11:52:31,757 INFO [root] - Executed Successfully
+2017-11-02 11:52:35,892 INFO [root] - Executed Successfully
+2017-11-02 11:52:37,999 INFO [root] - Executed Successfully
+2017-11-02 11:54:49,595 INFO [root] - Executed Successfully
+2017-11-02 11:54:52,684 INFO [root] - Executed Successfully
+2017-11-02 11:54:56,025 ERROR [root] - Exception OccuredORA-00933: SQL command not properly ended
+
+2017-11-02 11:58:07,701 INFO [root] - Executed Successfully
+2017-11-02 11:58:10,276 INFO [root] - Executed Successfully
+2017-11-02 11:58:20,280 INFO [root] - Executed Successfully
+2017-11-02 11:58:23,681 INFO [root] - Executed Successfully
+2017-11-02 11:58:28,100 INFO [root] - Executed Successfully
+2017-11-02 11:58:29,318 INFO [root] - Executed Successfully
+2017-11-02 11:58:36,576 INFO [root] - Executed Successfully
+2017-11-02 11:58:40,137 INFO [root] - Executed Successfully
+2017-11-02 11:58:51,248 INFO [root] - Executed Successfully
+2017-11-02 11:58:54,541 INFO [root] - Executed Successfully
+2017-11-02 11:59:01,393 INFO [root] - Executed Successfully
+2017-11-02 11:59:05,700 INFO [root] - Executed Successfully
+2017-11-02 11:59:56,099 INFO [root] - Executed Successfully
+2017-11-02 11:59:59,127 INFO [root] - Executed Successfully
+2017-11-02 12:00:00,672 ERROR [root] - Exception OccuredInvalid column index
+2017-11-02 12:00:23,860 INFO [root] - Executed Successfully
+2017-11-02 12:00:26,887 INFO [root] - Executed Successfully
+2017-11-02 12:00:27,668 ERROR [root] - Exception OccuredInvalid column index
+2017-11-02 12:00:31,977 INFO [root] - Executed Successfully
+2017-11-02 12:00:36,252 INFO [root] - Executed Successfully
+2017-11-02 12:00:37,782 ERROR [root] - Exception OccuredInvalid column index
+2017-11-02 12:00:43,310 INFO [root] - Executed Successfully
+2017-11-02 12:00:49,505 INFO [root] - Executed Successfully
+2017-11-02 12:00:55,513 ERROR [root] - Exception OccuredInvalid column index
+2017-11-02 12:01:55,650 INFO [root] - Executed Successfully
+2017-11-02 12:01:59,068 INFO [root] - Executed Successfully
+2017-11-02 12:02:00,239 INFO [root] - Executed Successfully
+2017-11-02 12:02:07,512 INFO [root] - Executed Successfully
+2017-11-02 12:02:11,166 INFO [root] - Executed Successfully
+2017-11-02 12:02:15,146 INFO [root] - Executed Successfully
+2017-11-08 12:49:45,386 INFO [root] - Executed Successfully
+2017-11-08 12:49:48,755 INFO [root] - Executed Successfully
+2017-11-08 12:50:01,058 INFO [root] - Executed Successfully
+2017-11-08 12:50:09,260 INFO [root] - Executed Successfully
+2017-11-08 12:50:11,985 INFO [root] - Executed Successfully
+2017-11-08 12:50:23,209 INFO [root] - Executed Successfully
+2017-11-08 12:50:36,271 INFO [root] - Executed Successfully
+2017-11-08 12:50:40,488 INFO [root] - Executed Successfully
+2017-11-08 12:50:45,128 INFO [root] - Executed Successfully
+2017-11-08 12:50:52,290 INFO [root] - Executed Successfully
+2017-11-08 12:50:54,707 INFO [root] - Executed Successfully
+2017-11-08 12:50:59,515 INFO [root] - Executed Successfully
+2017-11-08 12:51:03,554 INFO [root] - Executed Successfully
+2017-11-08 12:51:06,254 INFO [root] - Executed Successfully
+2017-11-08 12:51:11,490 INFO [root] - Executed Successfully
